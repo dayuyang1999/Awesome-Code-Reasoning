@@ -1,5 +1,7 @@
-# Code Reasoning Survey
+# A Survey on Code Reasoning
 This is the repository of our paper: **Code to Think, Think to Code: A Survey of Code-Enhanced Reasoning and Reasoning-Enhanced Code Intelligence in Large Language Models**
+
+
 
 [![arXiv](https://img.shields.io/badge/arXiv-<>-b31b1b.svg)](https://google.com) 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://google.com) 
@@ -8,17 +10,6 @@ This is the repository of our paper: **Code to Think, Think to Code: A Survey of
 <!-- ![License](https://img.shields.io/badge/License-MIT-blue) -->
 [![Paper page](https://huggingface.co/datasets/huggingface/badges/resolve/main/paper-page-sm.svg)](https://google.com)
 
-*Please do not hesitate to contact us or launch pull requests if you find any related papers that are missing in our paper*
-
-Please let us know if you discover any mistakes or have suggestions by emailing us: yangdayu1997@gmail.com
-
-
-## News 📰
-- Update on 2025/02/11: Updating Reading Lists 📖
-
-
-## Introduction 📜
-
 <p align="center" width="100%">
   <img src="assets/taxonomy.png" alt="Code Reasoning" style="width: 100%; min-width: 100px; display: block; margin: auto;">
   <br>
@@ -26,12 +17,13 @@ Please let us know if you discover any mistakes or have suggestions by emailing 
 </p>
 
 
+*Please do not hesitate to contact us or launch pull requests if you find any related papers that are missing in our paper, and let us know if you discover any mistakes or have suggestions by emailing us: yangdayu1997@gmail.com*
 
-📃 [**Code to Think, Think to Code: A Survey of Code-Enhanced Reasoning and Reasoning-Enhanced Code Intelligence in Large Language Models**](https://google.com) 
->
-> [Dayu Yang](https://google.com),
-[Daoan Zhang](https://google.com),
-[Tianyang Liu](https://google.com),
+
+## News 📰
+- Update on 2025/02/11: Updating Reading Lists 📖
+
+
 
 ## Citation 📖
 
