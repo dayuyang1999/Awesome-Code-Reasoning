@@ -46,8 +46,8 @@ This is an open collaborative research project among:
 <a href="https://ai.meta.com/">
     <img src="assets/logos/meta.gif" alt="Meta" height = 50/>
 </a>
-<a href="https://hkunlp.github.io/">
-    <img src="assets/logos/hku_logo.png" alt="Shark-NLP Shanghai AI Lab" height = 50/>
+<a href="https://ucsd.edu/">
+    <img src="assets/logos/ucsd.png" alt="UCSD" height = 50/>
 </a>
 
 
@@ -62,16 +62,22 @@ This repository is actively maintained, and we welcome your contributions! If yo
 
 
 
-- [Code-aided Reasoning](#code-aided-reasoning)
-  - [Generating as Code](#generating-as-code)
-  - [Training with Code](#training-with-code)
-- [Reasoning-enhanced Code Intelligence](#reasoning-enhanced-code-intelligence)
-  - [Essential Code Intelligence](#essential-code-intelligence)
-  - [Integration of Reasoning Capabilities](#integration-of-reasoning-capabilities)
-    - [Reasoning for Code Generation](#reasoning-for-code-generation)
-    - [Reasoning Over Code](#reasoning-over-code)
-    - [Interactive Programming](#interactive-programming)
-  - [Code Agents with Complex Reasoning](#code-agents-with-complex-reasoning)
+- [A Survey on Code Reasoning](#a-survey-on-code-reasoning)
+  - [News 📰](#news-)
+  - [Citation 📖](#citation-)
+  - [Acknowledgements](#acknowledgements)
+  - [Contributors](#contributors)
+  - [Table Of Contents](#table-of-contents)
+  - [Code-aided Reasoning](#code-aided-reasoning)
+    - [Generating as Code](#generating-as-code)
+    - [Training with Code](#training-with-code)
+  - [Reasoning-enhanced Code Intelligence](#reasoning-enhanced-code-intelligence)
+    - [Essential Code Intelligence](#essential-code-intelligence)
+    - [Integration of Reasoning Capabilities](#integration-of-reasoning-capabilities)
+      - [Reasoning for Code Generation](#reasoning-for-code-generation)
+      - [Reasoning Over Code](#reasoning-over-code)
+      - [Interactive Programming](#interactive-programming)
+    - [Code Agents with Complex Reasoning](#code-agents-with-complex-reasoning)
 
 
 ## Code-aided Reasoning
@@ -114,9 +120,21 @@ This repository is actively maintained, and we welcome your contributions! If yo
 
 | Paper Title | URL | Release Date |
 |------------|-----|--------------|
-| Fundamentals of Code Understanding in LLMs | https://arxiv.org/abs/2401.99999 | 2024-01-20 |
-| Deep Learning for Code Analysis | https://arxiv.org/abs/2312.88888 | 2023-12-10 |
-| Code Intelligence: A Comprehensive Survey | https://arxiv.org/abs/2311.77777 | 2023-11-05 |
+| CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation | https://arxiv.org/abs/2102.04664 | 2021-02-09 |
+| Competition-level code generation with AlphaCode | https://arxiv.org/abs/2108.07732 | 2021-08-16 |
+| Evaluating Large Language Models Trained on Code | https://arxiv.org/abs/2107.03374 | 2021-07-07|
+| Program Synthesis with Large Language Models | https://arxiv.org/abs/2108.07732 | 2021-08-16|
+| A Systematic Evaluation of Large Language Models of Code | https://arxiv.org/abs/2202.13169 | 2022-02-26 |
+| InCoder: A Generative Model for Code Infilling and Synthesis | https://arxiv.org/abs/2204.05999 | 2023-04-12 |
+| CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis | https://arxiv.org/abs/2203.13474 | 2023-03-25 |
+| StarCoder: May the Source be with You! | https://arxiv.org/abs/2305.06161 | 2023-05-10 |
+| Code Llama: Open Foundation Models for Code | https://arxiv.org/abs/2308.12950 | 2023-08-24 |
+| RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems | https://arxiv.org/abs/2306.03091 | 2023-06-05 |
+| CrossCodeEval: A Diverse and Multilingual Benchmark for Cross-File Code Completion | https://arxiv.org/abs/2310.11248 | 2023-10-17 |
+| StarCoder 2 and The Stack v2: The Next Generation | https://arxiv.org/abs/2402.19173 | 2024-02-29 |
+| CodeGemma: Open Code Models Based on Gemma | https://arxiv.org/abs/2406.11409 | 2024-06-17 |
+| DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence | https://arxiv.org/abs/2406.11931 | 2024-06-17 |
+| Qwen2.5-Coder Technical Report | https://arxiv.org/abs/2409.12186 | 2024-09-18 |
 
 ### Integration of Reasoning Capabilities
 
@@ -124,35 +142,57 @@ This repository is actively maintained, and we welcome your contributions! If yo
 
 | Paper Title | URL | Release Date |
 |------------|-----|--------------|
-| ReasonCode: Logical Reasoning for Code Generation | https://arxiv.org/abs/2401.44444 | 2024-01-25 |
-| Structured Reasoning in Code Synthesis | https://arxiv.org/abs/2312.55555 | 2023-12-05 |
-| Think First, Code Later: A Reasoning Framework | https://arxiv.org/abs/2311.66666 | 2023-11-15 |
+| Chain-of-Thought Prompting Elicits Reasoning in Large Language Models | https://arxiv.org/abs/2201.11903 | 2022-01-28 |
+| Self-planning Code Generation with Large Language Models | https://arxiv.org/abs/2303.06689 | 2023-03-12 |
+| Structured Chain-of-Thought Prompting for Code Generation | https://arxiv.org/abs/2305.06599 | 2023-05-11 |
+| CodeCoT: Tackling Code Syntax Errors in CoT Reasoning for Code Generation | https://arxiv.org/abs/2308.08784 | 2023-08-17 |
+| CodePlan: Repository-level Coding using LLMs and Planning | https://arxiv.org/abs/2309.12499 | 2023-09-21 |
+| Chain-of-Thought in Neural Code Generation: From and For Lightweight Language Models | https://arxiv.org/abs/2312.05562 | 2023-12-09 |
+| Planning In Natural Language Improves LLM Search For Code Generation | https://arxiv.org/abs/2409.03733 | 2024-09-05 |
 
 #### Reasoning Over Code
 
 | Paper Title | URL | Release Date |
 |------------|-----|--------------|
-| CodeReasoner: Understanding Program Logic | https://arxiv.org/abs/2401.33333 | 2024-01-10 |
-| Semantic Analysis through Reasoning | https://arxiv.org/abs/2312.77777 | 2023-12-25 |
-| Logical Inference in Code Comprehension | https://arxiv.org/abs/2311.88888 | 2023-11-30 |
+| CodeQA: A Question Answering Dataset for Source Code Comprehension | https://arxiv.org/abs/2109.08365 | 2021-09-17 |
+| CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution | https://arxiv.org/abs/2401.03065 | 2024-01-075|
+| CodeMind: A Framework to Challenge Large Language Models for Code Reasoning | https://arxiv.org/abs/2402.09664 | 2024-02-15 |
+| NExT: Teaching Large Language Models to Reason about Code Execution | https://arxiv.org/abs/2404.14662 | 2024-04-23 |
+| RepoQA: Evaluating Long Context Code Understanding | https://arxiv.org/abs/2406.06025 | 2024-06-10 |
+| SelfPiCo: Self-Guided Partial Code Execution with LLMs | https://arxiv.org/abs/2407.16974 | 2024-07-24 |
+| CodeMMLU: A Multi-Task Benchmark for Assessing Code Understanding Capabilities | https://arxiv.org/abs/2410.01999 | 2024-10-02 |
+| What You See Is Not Always What You Get: An Empirical Study of Code Comprehension | https://arxiv.org/abs/2412.08098 | 2024-12-11 |
 
 #### Interactive Programming
 
 | Paper Title | URL | Release Date |
 |------------|-----|--------------|
-| DialogCode: Interactive Programming Assistant | https://arxiv.org/abs/2401.22222 | 2024-01-30 |
-| Conversational Code Generation | https://arxiv.org/abs/2312.11111 | 2023-12-30 |
-| Interactive Learning for Code Understanding | https://arxiv.org/abs/2311.44444 | 2023-11-25 |
+| Interactive Program Synthesis | https://arxiv.org/abs/1703.03539 | 2017-03-10 |
+| Self-Refine: Iterative Refinement with Self-Feedback | https://arxiv.org/abs/2303.17651 | 2023-03-30 |
+| Teaching Large Language Models to Self-Debug | https://arxiv.org/abs/2304.05128 | 2023-04-11 |
+| Self-collaboration Code Generation via ChatGPT | https://arxiv.org/abs/2304.07590 | 2023-04-15 |
+| Self-Edit: Fault-Aware Code Editor for Code Generation | https://arxiv.org/abs/2305.04087 | 2023-05-06 |
+| LeTI: Learning to Generate from Textual Interactions | https://arxiv.org/abs/2305.10314 | 2023-05-17 |
+| InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback | https://arxiv.org/abs/2306.14898 | 2023-06-26 |
+| CodeChain: Towards Modular Code Generation Through Chain of Self-revisions with Representative Sub-modules | https://arxiv.org/abs/2310.08992 | 2023-10-13 |
+| AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation | https://arxiv.org/abs/2312.13010 | 2023-12-20 |
+| OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement | https://arxiv.org/abs/2402.14658 | 2024-02-22 |
+| What Makes Large Language Models Reason in (Multi-Turn) Code Generation? | https://arxiv.org/abs/2410.08105 | 2024-10-10 |
 
 ### Code Agents with Complex Reasoning
 
 | Paper Title | URL | Release Date |
 |------------|-----|--------------|
-| CodeAgent: Autonomous Programming Systems | https://arxiv.org/abs/2401.55555 | 2024-01-18 |
-| Multi-Agent Code Reasoning Framework | https://arxiv.org/abs/2312.66666 | 2023-12-12 |
-| Emergent Reasoning in Code Agents | https://arxiv.org/abs/2311.99999 | 2023-11-08 |
-
-
-
-
-
+| SWE-bench: Can Language Models Resolve Real-World GitHub Issues? | https://arxiv.org/abs/2310.06770 | 2023-10-10 |
+| CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges | https://arxiv.org/abs/2401.07339 | 2024-01-14 |
+| Executable Code Actions Elicit Better LLM Agents | https://arxiv.org/abs/2402.01030 | 2024-02-01 |
+| Cursor AI: The AI Code Editor | https://www.cursor.com | 2024-02-17 |
+| Devin AI: Autonomous AI Software Engineer | https://devin.ai | 2024-03-12 |
+| AutoCodeRover: Autonomous Program Improvement | https://arxiv.org/abs/2404.05427 | 2024-04-08 |
+| SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering | https://arxiv.org/abs/2405.15793 | 2024-05-06 |
+| Agentless: Demystifying LLM-based Software Engineering Agents | https://arxiv.org/abs/2407.01489 | 2024-07-01 |
+| OpenHands: An Open Platform for AI Software Developers as Generalist Agents | https://arxiv.org/abs/2407.16741 | 2024-07-23 |
+| SWE-bench Verified | https://openai.com/index/introducing-swe-bench-verified | 2024-08-13 |
+| HyperAgent: Generalist Software Engineering Agents to Solve Coding Tasks at Scale | https://arxiv.org/abs/2409.16299 | 2024-09-09 |
+| SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains? | https://arxiv.org/abs/2410.03859 | 2024-10-04 |
+| Evaluating Software Development Agents: Patch Patterns, Code Quality, and Issue Complexity in Real-World GitHub Scenarios | https://arxiv.org/abs/2410.12468 | 2024-10-16 |
