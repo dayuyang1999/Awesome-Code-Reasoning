@@ -43,7 +43,7 @@ This is the repository of our paper: **Code to Think, Think to Code: A Survey of
 
 This is an open collaborative research project among:
 
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex !important; flex-wrap: nowrap; gap: 15px; align-items: center; justify-content: center; width: 100%;">
     <a href="https://ai.meta.com/">
         <img src="assets/logos/meta.gif" alt="Meta" height="50"/>
     </a>
