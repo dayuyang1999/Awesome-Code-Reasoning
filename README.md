@@ -49,8 +49,8 @@ This is an open collaborative research project among:
 <a href="https://ucsd.edu/">
     <img src="assets/logos/ucsd.png" alt="UCSD" height = 50/>
 </a>
-<a href="https://ucsd.edu/">
-    <img src="assets/logos/UR.4col.v1.eps" alt="UCSD" height = 50/>
+<a href="https://www.rochester.edu">
+    <img src="assets/logos/ur.png" alt="UR" height = 50/>
 </a>
 
 
