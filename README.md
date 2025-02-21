@@ -43,15 +43,17 @@ This is the repository of our paper: **Code to Think, Think to Code: A Survey of
 
 This is an open collaborative research project among:
 
-<a href="https://ai.meta.com/">
-    <img src="assets/logos/meta.gif" alt="Meta" height = 50/>
-</a>
-<a href="https://ucsd.edu/">
-    <img src="assets/logos/ucsd.png" alt="UCSD" height = 50/>
-</a>
-<a href="https://www.rochester.edu">
-    <img src="assets/logos/ur.png" alt="UR" height = 50/>
-</a>
+<div style="display: flex; gap: 10px; align-items: center;">
+    <a href="https://ai.meta.com/">
+        <img src="assets/logos/meta.gif" alt="Meta" height="50"/>
+    </a>
+    <a href="https://ucsd.edu/">
+        <img src="assets/logos/ucsd.png" alt="UCSD" height="50"/>
+    </a>
+    <a href="https://www.rochester.edu">
+        <img src="assets/logos/ur.png" alt="UR" height="50"/>
+    </a>
+</div>
 
 
 ## Contributors
