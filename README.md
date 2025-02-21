@@ -126,7 +126,7 @@ This repository is actively maintained, and we welcome your contributions! If yo
 | Siam: Self-improving code-assisted mathematical reasoning of large language models | https://arxiv.org/pdf/2408.15565? | 2024-08-28 |
 | Crystal: Illuminating LLM abilities on language and code | https://arxiv.org/pdf/2411.04156 | 2024-11-06 |
 | At which training stage does code data help llms reasoning? | https://arxiv.org/pdf/2309.16298 | 2023-09-03 |
-| Unveiling the Impact of Coding Data Instruction Fine-Tuning on Large Language Models Reasoning | https://arxiv.org/pdf/2405.20535 | 20224-12-12 |
+| Unveiling the Impact of Coding Data Instruction Fine-Tuning on Large Language Models Reasoning | https://arxiv.org/pdf/2405.20535 | 2024-12-12 |
 
 ## Reasoning-enhanced Code Intelligence
 
