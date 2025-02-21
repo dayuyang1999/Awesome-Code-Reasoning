@@ -113,6 +113,20 @@ This repository is actively maintained, and we welcome your contributions! If yo
 | CodeTrain: Pre-training LLMs with Code-Based Tasks | https://arxiv.org/abs/2401.11111 | 2024-01-05 |
 | Learning to Reason Through Code Examples | https://arxiv.org/abs/2312.22222 | 2023-12-15 |
 | Code-Augmented Training for Better Reasoning | https://arxiv.org/abs/2311.33333 | 2023-11-20 |
+| Language Models of Code are Few-Shot Commonsense Learners | https://arxiv.org/pdf/2210.07128 | 2022-12-06 |
+| Logic Distillation: Learning from Code Function by Function for Planning and Decision-making | https://arxiv.org/pdf/2407.19405 | 2024-07-28 |
+| Unlocking Reasoning Potential in Large Langauge Models by Scaling Code-form Planning | https://arxiv.org/pdf/2409.12452 | 2022-10-04 |
+| ViStruct: Visual Structural Knowledge Extraction via Curriculum Guided Code-Vision Representation | https://arxiv.org/pdf/2311.13258 | 2023-11-22 |
+| Eliciting Better Multilingual Structured Reasoning from LLMs through Code | https://arxiv.org/pdf/2403.02567 | 2024-06-12 |
+| LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language Model Programs | https://arxiv.org/pdf/2312.04372 | 2024-04-04 |
+| MARIO: MAth Reasoning with code Interpreter Output – A Reproducible Pipeline | https://arxiv.org/pdf/2401.08190 | 2024-02-21 |
+| Reasoning Like Program Executors | https://arxiv.org/pdf/2201.11473 | 2022-10-22 |
+| SEMCODER: Training Code Language Models with Comprehensive Semantics Reasoning | https://arxiv.org/pdf/2406.01006 | 2024-10-31 |
+| CodePMP: Scalable Preference Model Pretraining for Large Language Model Reasoning | https://arxiv.org/pdf/2410.02229? | 2024-10-03 |
+| Siam: Self-improving code-assisted mathematical reasoning of large language models | https://arxiv.org/pdf/2408.15565? | 2024-08-28 |
+| Crystal: Illuminating LLM abilities on language and code | https://arxiv.org/pdf/2411.04156 | 2024-11-06 |
+| At which training stage does code data help llms reasoning? | https://arxiv.org/pdf/2309.16298 | 2023-09-03 |
+| Unveiling the Impact of Coding Data Instruction Fine-Tuning on Large Language Models Reasoning | https://arxiv.org/pdf/2405.20535 | 20224-12-12 |
 
 ## Reasoning-enhanced Code Intelligence
 
