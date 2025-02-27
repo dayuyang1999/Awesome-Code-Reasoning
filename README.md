@@ -1,14 +1,14 @@
 # A Survey on Code Reasoning
-This is the repository of our paper: **Code to Think, Think to Code: A Survey of Code-Enhanced Reasoning and Reasoning-Enhanced Code Intelligence in Large Language Models**
+This is the official repository of our paper: **Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs**
 
 
 
-[![arXiv](https://img.shields.io/badge/arXiv-<>-b31b1b.svg)](https://google.com) 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://google.com) 
+[![arXiv](https://img.shields.io/badge/arXiv-<>-b31b1b.svg)](https://arxiv.org/abs/2502.19411) 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://arxiv.org/abs/2502.19411) 
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://awesome.re/badge.svg)](https://google.com)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re/)
 <!-- ![License](https://img.shields.io/badge/License-MIT-blue) -->
-[![Paper page](https://huggingface.co/datasets/huggingface/badges/resolve/main/paper-page-sm.svg)](https://google.com)
+[![Paper page](https://huggingface.co/datasets/huggingface/badges/resolve/main/paper-page-sm.svg)](https://arxiv.org/abs/2502.19411)
 
 <p align="center" width="100%">
   <img src="assets/taxonomy.png" alt="Code Reasoning" style="width: 100%; min-width: 100px; display: block; margin: auto;">
@@ -21,6 +21,7 @@ This is the repository of our paper: **Code to Think, Think to Code: A Survey of
 
 
 ## News 📰
+- Update on 2025/02/27: Paper is released on arXiv. [![arXiv](https://img.shields.io/badge/arXiv-2502.19411-b31b1b.svg)](https://arxiv.org/abs/2502.19411)
 - Update on 2025/02/11: Updating Reading Lists 📖
 
 
@@ -30,10 +31,10 @@ This is the repository of our paper: **Code to Think, Think to Code: A Survey of
 🫶 If you are interested in our work or find this repository helpful, please consider using the following citation format when referencing our paper:
 
 ```bibtex
-@article{sun2024survey,
-  title={Code to Think, Think to Code: A Survey of Code-Enhanced Reasoning and Reasoning-Enhanced Code Intelligence in Large Language Models},
-  author={<NAME> and <NAME> and others},
-  journal={arXiv preprint arXiv:},
+@article{yang2025codereasoning,
+  title={Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs},
+  author={Yang, Dayu and Liu, Tianyang and Zhang, Daoan and others},
+  journal={arXiv preprint arXiv:2502.19411},
   year={2025}
 }
 ```
@@ -45,13 +46,13 @@ This is an open collaborative research project among:
 
 <div style="display: flex !important; flex-wrap: nowrap; gap: 15px; align-items: center; justify-content: center; width: 100%;">
     <a href="https://ai.meta.com/">
-        <img src="assets/logos/meta.gif" alt="Meta" height="50"/>
+        <img src="assets/logos/meta.svg" alt="Meta" height="30"/>
     </a>
     <a href="https://ucsd.edu/">
-        <img src="assets/logos/ucsd.png" alt="UCSD" height="50"/>
+        <img src="assets/logos/ucsd.png" alt="UCSD" height="35"/>
     </a>
     <a href="https://www.rochester.edu">
-        <img src="assets/logos/ur.png" alt="UR" height="50"/>
+        <img src="assets/logos/ur.png" alt="UR" height="47"/>
     </a>
 </div>
 
