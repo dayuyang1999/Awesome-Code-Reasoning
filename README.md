@@ -1,5 +1,5 @@
-# A Survey on Code Reasoning
-This is the official repository of our paper: **Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs**
+# 🧠💻 A Survey on Code Reasoning 🤖🔍
+This is the official repository of our paper: **Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs** 🚀
 
 
 
@@ -17,13 +17,12 @@ This is the official repository of our paper: **Code to Think, Think to Code: A 
 </p>
 
 
-*Please do not hesitate to contact us or launch pull requests if you find any related papers that are missing in our paper, and let us know if you discover any mistakes or have suggestions by emailing us: yangdayu1997@gmail.com*
+*Please do not hesitate to contact us or launch pull requests if you find any related papers that are missing in our paper, and let us know if you discover any mistakes or have suggestions by emailing us: yangdayu1997@gmail.com* ✉️
 
 
 ## News 📰
-- Update on 2025/02/27: Paper is released on arXiv. [![arXiv](https://img.shields.io/badge/arXiv-2502.19411-b31b1b.svg)](https://arxiv.org/abs/2502.19411)
-- Update on 2025/02/11: Updating Reading Lists 📖
-
+- Update on 2025/02/27: Paper is released on arXiv. 🎉 [![arXiv](https://img.shields.io/badge/arXiv-2502.19411-b31b1b.svg)](https://arxiv.org/abs/2502.19411)
+- Update on 2025/02/11: Updating Reading Lists 📚 📖
 
 
 ## Citation 📖
