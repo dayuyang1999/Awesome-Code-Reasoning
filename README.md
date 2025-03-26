@@ -174,8 +174,9 @@ This repository is actively maintained, and we welcome your contributions! If yo
 | Paper Title | URL | Release Date |
 |------------|-----|--------------|
 | CodeQA: A Question Answering Dataset for Source Code Comprehension | https://arxiv.org/abs/2109.08365 | 2021-09-17 |
-| CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution | https://arxiv.org/abs/2401.03065 | 2024-01-075|
+| CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution | https://arxiv.org/abs/2401.03065 | 2024-01-05 |
 | CodeMind: A Framework to Challenge Large Language Models for Code Reasoning | https://arxiv.org/abs/2402.09664 | 2024-02-15 |
+| Reasoning Runtime Behavior of a Program with LLM: How Far Are We? | https://arxiv.org/abs/2403.16437 | 2024-03-25 |
 | NExT: Teaching Large Language Models to Reason about Code Execution | https://arxiv.org/abs/2404.14662 | 2024-04-23 |
 | RepoQA: Evaluating Long Context Code Understanding | https://arxiv.org/abs/2406.06025 | 2024-06-10 |
 | SelfPiCo: Self-Guided Partial Code Execution with LLMs | https://arxiv.org/abs/2407.16974 | 2024-07-24 |
