@@ -110,6 +110,9 @@ This repository is actively maintained, and we welcome your contributions! If yo
 | NExT: Teaching Large Language Models to Reason about Code Execution | https://arxiv.org/abs/2404.14662 | 2024-04-23 |
 | Unlocking Reasoning Potential in Large Language Models by Scaling Code-form Planning | https://arxiv.org/abs/2409.12452 | 2024-09-19 |
 | Code Prompting: a Neural Symbolic Method for Complex Reasoning in Large Language Models | https://arxiv.org/abs/2305.18507 | 2023-05-29 |
+| CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction | https://arxiv.org/abs/2502.07316 | 2025-02-11 |
+| CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive Program Synthesis | https://arxiv.org/abs/2503.23145 | 2025-03-29 |
+| Evaluating Grounded Reasoning by Code-Assisted Large Language Models for Mathematics | https://arxiv.org/abs/2504.17665 | 2025-04-24 |
 
 ### Training with Code
 
@@ -132,6 +135,11 @@ This repository is actively maintained, and we welcome your contributions! If yo
 | Crystal: Illuminating LLM abilities on language and code | https://arxiv.org/pdf/2411.04156 | 2024-11-06 |
 | At which training stage does code data help llms reasoning? | https://arxiv.org/pdf/2309.16298 | 2023-09-03 |
 | Unveiling the Impact of Coding Data Instruction Fine-Tuning on Large Language Models Reasoning | https://arxiv.org/pdf/2405.20535 | 2024-12-12 |
+| DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning | https://arxiv.org/abs/2501.12948 | 2025-01-22 |
+| AceReason-Nemotron: Advancing Math and Code Reasoning through Reinforcement Learning | https://arxiv.org/abs/2505.16400 | 2025-05-22 |
+| OpenThoughts: A Systematic Investigation of Data Curation for Post-training Reasoning Models | https://arxiv.org/abs/2506.04178 | 2025-06-05 |
+| RuleReasoner: Reinforced Rule-based Reasoning with Dynamic Multi-domain Curriculum Learning | https://arxiv.org/abs/2506.08672 | 2025-06-10 |
+| CoRT: Code-integrated Reasoning within Thinking | https://arxiv.org/abs/2506.09820 | 2025-06-11 |
 
 ## Reasoning-enhanced Code Intelligence
 
@@ -154,6 +162,11 @@ This repository is actively maintained, and we welcome your contributions! If yo
 | CodeGemma: Open Code Models Based on Gemma | https://arxiv.org/abs/2406.11409 | 2024-06-17 |
 | DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence | https://arxiv.org/abs/2406.11931 | 2024-06-17 |
 | Qwen2.5-Coder Technical Report | https://arxiv.org/abs/2409.12186 | 2024-09-18 |
+| CodeElo: Benchmarking Competition-level Code Generation of LLMs with Human-comparable Elo Ratings | https://arxiv.org/abs/2501.01257 | 2025-01-02 |
+| Exploring Code Comprehension in Scientific Programming: Preliminary Insights from Research Scientists | https://arxiv.org/abs/2501.10037 | 2025-01-17 |
+| COFFE: A Code Efficiency Benchmark for Code Generation | https://arxiv.org/abs/2502.02827 | 2025-02-05 |
+| Evaluating the Generalization Capabilities of Large Language Models on Code Reasoning | https://arxiv.org/abs/2504.05518 | 2025-04-07 |
+| rStar-Coder: Scaling Competitive Code Reasoning with a Large-Scale Verified Dataset | https://arxiv.org/abs/2505.21297 | 2025-05-27 |
 
 ### Integration of Reasoning Capabilities
 
@@ -168,6 +181,13 @@ This repository is actively maintained, and we welcome your contributions! If yo
 | CodePlan: Repository-level Coding using LLMs and Planning | https://arxiv.org/abs/2309.12499 | 2023-09-21 |
 | Chain-of-Thought in Neural Code Generation: From and For Lightweight Language Models | https://arxiv.org/abs/2312.05562 | 2023-12-09 |
 | Planning In Natural Language Improves LLM Search For Code Generation | https://arxiv.org/abs/2409.03733 | 2024-09-05 |
+| Chain of Grounded Objectives: Bridging Process and Goal-oriented Prompting for Code Generation | https://arxiv.org/abs/2501.13978 | 2025-01-23 |
+| LLM-Guided Compositional Program Synthesis | https://arxiv.org/abs/2503.15540 | 2025-03-12 |
+| Modularization is Better: Effective Code Generation with Modular Prompting | https://arxiv.org/abs/2503.12483 | 2025-03-16 |
+| Uncertainty-Guided Chain-of-Thought for Code Generation with LLMs | https://arxiv.org/abs/2503.15341 | 2025-03-19 |
+| MSCoT: Structured Chain-of-Thought Generation for Multiple Programming Languages | https://arxiv.org/abs/2504.10178 | 2025-04-18 |
+| Chain-of-Code Collapse: Reasoning Failures in LLMs via Adversarial Prompting in Code Generation | https://arxiv.org/abs/2506.06971 | 2025-06-08 |
+| Reasoning as a Resource: Optimizing Fast and Slow Thinking in Code Generation Models | https://arxiv.org/abs/2506.09396 | 2025-06-11 |
 
 #### Reasoning Over Code
 
@@ -182,6 +202,7 @@ This repository is actively maintained, and we welcome your contributions! If yo
 | SelfPiCo: Self-Guided Partial Code Execution with LLMs | https://arxiv.org/abs/2407.16974 | 2024-07-24 |
 | CodeMMLU: A Multi-Task Benchmark for Assessing Code Understanding Capabilities | https://arxiv.org/abs/2410.01999 | 2024-10-02 |
 | What You See Is Not Always What You Get: An Empirical Study of Code Comprehension | https://arxiv.org/abs/2412.08098 | 2024-12-11 |
+| How Accurately Do Large Language Models Understand Code? | https://arxiv.org/abs/2504.04372 | 2025-04-06 |
 
 #### Interactive Programming
 
@@ -198,6 +219,12 @@ This repository is actively maintained, and we welcome your contributions! If yo
 | AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation | https://arxiv.org/abs/2312.13010 | 2023-12-20 |
 | OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement | https://arxiv.org/abs/2402.14658 | 2024-02-22 |
 | What Makes Large Language Models Reason in (Multi-Turn) Code Generation? | https://arxiv.org/abs/2410.08105 | 2024-10-10 |
+| Revisit Self-Debugging with Self-Generated Tests for Code Generation | https://arxiv.org/abs/2501.12793 | 2025-01-22 |
+| Large Language Model Guided Self-Debugging Code Generation | https://arxiv.org/abs/2502.02928 | 2025-02-05 |
+| Interactive Agents to Overcome Ambiguity in Software Engineering | https://arxiv.org/abs/2502.13069 | 2025-02-18 |
+| ConvCodeWorld: Benchmarking Conversational Code Generation in Reproducible Feedback Environments | https://arxiv.org/abs/2502.19852 | 2025-02-28 |
+| Prompt Alchemy: Automatic Prompt Refinement for Enhancing Code Generation | https://arxiv.org/abs/2503.11085 | 2025-03-14 |
+| Humanity's Last Code Exam: Can Advanced LLMs Conquer Human's Hardest Code Competition? | https://arxiv.org/abs/2506.12713 | 2025-06-12 |
 
 ### Code Agents with Complex Reasoning
 
@@ -216,3 +243,9 @@ This repository is actively maintained, and we welcome your contributions! If yo
 | HyperAgent: Generalist Software Engineering Agents to Solve Coding Tasks at Scale | https://arxiv.org/abs/2409.16299 | 2024-09-09 |
 | SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains? | https://arxiv.org/abs/2410.03859 | 2024-10-04 |
 | Evaluating Software Development Agents: Patch Patterns, Code Quality, and Issue Complexity in Real-World GitHub Scenarios | https://arxiv.org/abs/2410.12468 | 2024-10-16 |
+| Verbal Process Supervision Elicits Better Coding Agents | https://arxiv.org/abs/2503.18494 | 2025-03-24 |
+| A Self-Improving Coding Agent | https://arxiv.org/abs/2504.15228 | 2025-04-21 |
+| Breakpoint: A Benchmark for Systematic and Scalable Evaluation of Long-Horizon Code Repair | https://arxiv.org/abs/2506.00172 | 2025-05-31 |
+| Code Researcher: Deep Research Agent for Large Systems Code and Commit History | https://arxiv.org/abs/2506.11060 | 2025-05-27 |
+| Coding Agents with Multimodal Browsing are Generalist Problem Solvers | https://arxiv.org/abs/2506.03011 | 2025-06-03 |
+| UTBoost: Rigorous Evaluation of Coding Agents on SWE-Bench | https://arxiv.org/abs/2506.09289 | 2025-06-10 |
